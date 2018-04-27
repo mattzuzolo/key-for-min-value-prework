@@ -6,7 +6,7 @@ def key_for_min_value(name_hash)
     key_array = []
     value_array = []
     i = 0
-    smallest_key = ""
+    smallest_key = nil
     smallest_value = nil
 
     if name_hash.size == 0
