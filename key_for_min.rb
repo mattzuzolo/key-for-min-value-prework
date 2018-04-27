@@ -21,10 +21,8 @@ def key_for_min_value(name_hash)
           
         end  #end .each
     
-         
+          smallest_key
     end #end if/else
-    
-     smallest_key
 end #end big method
 
 
