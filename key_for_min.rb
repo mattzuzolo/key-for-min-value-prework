@@ -4,7 +4,7 @@
 def key_for_min_value(name_hash)
 
     smallest_key = nil
-    smallest_value = 100
+    smallest_value = 0
 
     if name_hash.size == 0
         nil
