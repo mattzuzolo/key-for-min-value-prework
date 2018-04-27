@@ -3,7 +3,6 @@
 
 def key_for_min_value(name_hash)
 
-    smallest_key = ""
     key_array = []
     value_array = []
     i = 0
@@ -23,7 +22,6 @@ def key_for_min_value(name_hash)
     
   
     end #end if/else
-
 end #end big method
 
 
